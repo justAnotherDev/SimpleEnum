@@ -74,6 +74,4 @@ That took a lot of copy and pasting to create! As enum lists grow longer, it bec
 
 ## Limitations
 
-• All enums will be 0 based
-
 • Can't map custom strings to enum values
